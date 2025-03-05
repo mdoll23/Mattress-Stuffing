@@ -1,0 +1,2 @@
+/Engine/Transient.World_9:PersistentLevel.BP_TestNPC_C_0.BP_DialogueComponent
+/Game/Dialogue_System_Prototype/BP_DialogueComponent.BP_DialogueComponent_C
