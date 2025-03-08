@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Marketplace/MounteaDialogueSystem_5.3/Content/Example/BP_DialogueGameMode.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Marketplace/MounteaDialogueSystem_5.3/Content/Blueprints/Core/BP_DialoguePlayerController.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Marketplace/MounteaDialogueSystem_5.3/Content/Example/M_DialogueExample.umap",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Marketplace/MounteaDialogueSystem_5.3/Content/Blueprints/Core/BP_DialogueActor.uasset",
 				"C:/Users/Power/Documents/Unreal Projects/Noir_Demo/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Power/Documents/Unreal Projects/Noir_Demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Power/Documents/Unreal Projects/Noir_Demo/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
