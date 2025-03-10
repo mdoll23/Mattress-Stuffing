@@ -1277,3 +1277,1255 @@ UnknownFunction []
 [2025.03.10-01.28.14:478][ 55]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 326.709229
 [2025.03.10-01.28.15:479][ 58]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.10-01.28.15:479][ 58]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 327.376892, Update Interval: 339.429291
+[2025.03.10-01.32.21:383][ 59]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.32.21:416][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.10-01.32.23:969][204]BlueprintLog: New page: Compile UI_EnemyCombat
+[2025.03.10-01.32.24:005][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.10-01.32.38:763][ 88]BlueprintLog: New page: Compile UI_EnemyCombat
+[2025.03.10-01.32.38:793][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.03.10-01.32.39:863][134]LogShaderCompilers: Display: ================================================
+[2025.03.10-01.32.39:863][134]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.10-01.32.39:863][134]LogShaderCompilers: Display: Total job queries 17, among them cache hits 0 (0.00%)
+[2025.03.10-01.32.39:863][134]LogShaderCompilers: Display: Tracking 17 distinct input hashes that result in 15 distinct outputs (88.24%)
+[2025.03.10-01.32.39:863][134]LogShaderCompilers: Display: RAM used: 382.68 KiB of 819.20 MiB budget. Usage: 0.05%
+[2025.03.10-01.32.39:863][134]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.10-01.32.39:863][134]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.03.10-01.32.39:863][134]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.03.10-01.32.39:863][134]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.03.10-01.32.39:863][134]LogShaderCompilers: Display: ================================================
+[2025.03.10-01.32.40:188][136]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.10-01.33.46:932][ 26]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.46:933][ 26]LogPhysics: Warning: Scale for /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Suspect_C_UAID_F46ADDE29ECE8B5302_1648320607.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.46:935][ 26]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.46:949][ 27]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.46:965][ 28]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.46:982][ 29]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.46:998][ 30]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:015][ 31]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:032][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:048][ 33]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:065][ 34]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:082][ 35]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:099][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:115][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:132][ 38]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:148][ 39]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:164][ 40]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:182][ 41]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:198][ 42]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:214][ 43]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:232][ 44]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:249][ 45]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:265][ 46]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:282][ 47]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:299][ 48]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:314][ 49]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:332][ 50]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:349][ 51]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.47:366][ 52]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Suspect_C_0.combatBubbles has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2025.03.10-01.33.56:990][625]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 669.223022
+[2025.03.10-01.33.57:107][632]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-01.33.57:107][632]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 669.323669, Update Interval: 305.954773
+[2025.03.10-01.34.08:629][316]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.34.08:705][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.03.10-01.34.10:295][400]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.10-01.34.10:304][400]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.10-01.34.10:304][400]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2025.03.10-01.34.10:306][400]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2 ms
+[2025.03.10-01.34.10:306][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.10-01.34.10:307][400]PIE: New page: PIE session: TopDownMap (Mar 9, 2025, 5:34:10 PM)
+[2025.03.10-01.34.10:311][400]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.03.10-01.34.10:311][400]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.03.10-01.34.10:311][400]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.03.10-01.34.10:318][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007490s)
+[2025.03.10-01.34.10:318][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.007538s)
+[2025.03.10-01.34.10:331][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.03.10-01.34.10:333][400]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.10-01.34.10:333][400]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.10-01.34.10:333][400]LogAIModule: Creating AISystem for world TopDownMap
+[2025.03.10-01.34.10:334][400]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.10-01.34.10:334][400]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.10-01.34.10:334][400]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.10-01.34.10:334][400]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.10-01.34.10:336][400]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2025.03.10-01.34.10:336][400]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.11 sec)
+[2025.03.10-01.34.10:336][400]LogPlayLevel: PIE: World Init took: (0.003057s)
+[2025.03.10-01.34.10:336][400]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.03.10-01.34.10:336][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.10-01.34.10:336][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.10-01.34.10:336][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.10-01.34.10:336][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.10-01.34.10:336][400]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.10-01.34.10:336][400]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.10-01.34.10:336][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.10-01.34.10:336][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.10-01.34.10:336][400]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.10-01.34.10:336][400]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.10-01.34.10:336][400]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.10-01.34.10:338][400]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.10-01.34.10:356][400]LogAudioMixer: Display: Using Audio Hardware Device Speakers (BW01)
+[2025.03.10-01.34.10:356][400]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.10-01.34.10:356][400]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.10-01.34.10:356][400]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.10-01.34.10:357][400]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.03.10-01.34.10:357][400]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.03.10-01.34.10:359][400]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.03.10-01.34.10:359][400]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.03.10-01.34.10:359][400]LogInit: FAudioDevice initialized with ID 2.
+[2025.03.10-01.34.10:359][400]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownMap'.
+[2025.03.10-01.34.10:359][400]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.10-01.34.10:364][400]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\MounteaDialogueSystem_5.3\Content\Blueprints\Core\BP_DialoguePlayerController.uasset: Failed to load '/Game/TopDown/Input/IMC_Interact': Can't find file.
+[2025.03.10-01.34.10:364][400]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.3\Engine\Plugins\Marketplace\MounteaDialogueSystem_5.3\Content\Blueprints\Core\BP_DialoguePlayerController.uasset: VerifyImport: Failed to load package for import object 'Package /Game/TopDown/Input/IMC_Interact'
+[2025.03.10-01.34.10:467][400]LogLoad: Game class is 'BP_DialogueGameMode_C'
+[2025.03.10-01.34.10:473][400]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2025.03.09-21.34.10
+[2025.03.10-01.34.10:477][400]LogWorld: Bringing up level for play took: 0.009570
+[2025.03.10-01.34.10:479][400]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.03.10-01.34.10:494][400]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.03.10-01.34.10:494][400]PIE: Server logged in
+[2025.03.10-01.34.10:495][400]PIE: Play in editor total start time 0.191 seconds.
+[2025.03.10-01.34.12:496][506]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2025.03.10-01.34.12:496][506]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.10-01.34.12:496][506]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.10-01.34.13:629][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-01.34.13:629][572]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.03.10-01.34.13:630][572]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-01.34.13:630][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-01.34.13:630][572]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2025.03.10-01.34.13:633][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.10-01.34.13:639][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-01.34.13:658][572]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.10-01.34.13:658][572]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.10-01.34.13:658][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.10-01.34.13:661][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.10-01.34.13:664][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-01.34.13:670][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.10-01.34.13:711][574]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.03.10-01.34.53:892][740]BlueprintLog: New page: Compile UI_EnemyCombat
+[2025.03.10-01.34.53:975][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.10-01.35.11:769][782]BlueprintLog: New page: Compile UI_EnemyCombat
+[2025.03.10-01.35.11:850][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.10-01.35.29:292][754]LogBlueprint: Warning: Short class name "Object" in meta data "ClassFilter" for function /Script/MounteaDialogueSystem.MounteaDialogueSystemBFC:GetObjectByClass
+[2025.03.10-01.35.43:933][618]BlueprintLog: New page: Compile UI_EnemyCombat
+[2025.03.10-01.35.43:936][618]LogBlueprint: Error: [AssetLog] C:\Users\chemb\OneDrive\Documents\gitRepositories\Mattress-Stuffing\Nior_Demo_3_5\Noir_Demo\Content\Blueprints\UI_EnemyCombat.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2025.03.10-01.35.44:000][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.03.10-01.35.57:368][387]LogSlate: Took 0.000544 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.10-01.35.57:463][388]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.10-01.35.58:182][421]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.10-01.35.58:310][423]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.10-01.36.35:883][606]LogSlate: Took 0.003884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NotoColorEmoji.ttf' (7610K)
+[2025.03.10-01.37.13:763][851]BlueprintLog: New page: Compile UI_EnemyCombat
+[2025.03.10-01.37.13:766][851]LogBlueprint: Error: [AssetLog] C:\Users\chemb\OneDrive\Documents\gitRepositories\Mattress-Stuffing\Nior_Demo_3_5\Noir_Demo\Content\Blueprints\UI_EnemyCombat.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Suspect  to imply a specific type.
+[2025.03.10-01.37.13:766][851]LogBlueprint: Error: [AssetLog] C:\Users\chemb\OneDrive\Documents\gitRepositories\Mattress-Stuffing\Nior_Demo_3_5\Noir_Demo\Content\Blueprints\UI_EnemyCombat.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.03.10-01.37.13:833][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.10-01.37.39:729][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.10-01.37.39:735][ 44]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/ES/S18AIDLSKOHBVQCGW28EIZ_Auto1
+[2025.03.10-01.37.39:736][ 44]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/S18AIDLSKOHBVQCGW28EIZ_Auto1A6DD5A4D4D03B4911C3B38A664A85593.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/ES/S18AIDLSKOHBVQCGW28EIZ_Auto1.uasset'
+[2025.03.10-01.37.39:737][ 44]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.024
+[2025.03.10-01.37.39:737][ 44]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2025.03.10-01.37.39:738][ 44]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Suspect] ([2] browsable assets)...
+[2025.03.10-01.37.39:903][ 44]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Suspect.BP_Suspect]
+[2025.03.10-01.37.39:903][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Suspect]
+[2025.03.10-01.37.39:914][ 44]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Suspect_Auto1
+[2025.03.10-01.37.39:917][ 44]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/BP_Suspect_Auto1B513A9CC42E975778ACFFC9A4E7B48CC.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/Autosaves/Game/Blueprints/BP_Suspect_Auto1.uasset'
+[2025.03.10-01.37.39:918][ 44]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI_EnemyCombat] ([2] browsable assets)...
+[2025.03.10-01.37.39:926][ 44]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI_EnemyCombat.UI_EnemyCombat]
+[2025.03.10-01.37.39:926][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI_EnemyCombat]
+[2025.03.10-01.37.39:931][ 44]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI_EnemyCombat_Auto1
+[2025.03.10-01.37.39:931][ 44]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/UI_EnemyCombat_Auto19587703E47BADC41115E76B137014414.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/Autosaves/Game/Blueprints/UI_EnemyCombat_Auto1.uasset'
+[2025.03.10-01.37.39:932][ 44]LogFileHelpers: Auto-saving content packages took 0.195
+[2025.03.10-01.39.07:124][351]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 979.355347
+[2025.03.10-01.39.07:207][356]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-01.39.07:207][356]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 979.422241, Update Interval: 313.962219
+[2025.03.10-01.39.11:185][594]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.39.11:229][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.03.10-01.39.28:750][608]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.39.28:796][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.10-01.39.53:945][ 57]LogSlate: Took 0.000568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.03.10-01.40.12:797][177]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.40.12:843][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.10-01.41.28:085][684]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2025.03.10-01.41.28:085][684]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2025.03.10-01.42.03:293][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.03.10-01.42.04:044][794]LogSlate: Window 'Save Content' being destroyed
+[2025.03.10-01.42.04:052][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-01.42.04:369][794]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Suspect
+[2025.03.10-01.42.04:370][794]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/BP_SuspectB59FBE3345857FDC696F9CB92D70DEB3.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Content/Blueprints/BP_Suspect.uasset'
+[2025.03.10-01.42.04:373][794]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/ES/S18AIDLSKOHBVQCGW28EIZ
+[2025.03.10-01.42.04:374][794]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/S18AIDLSKOHBVQCGW28EIZC548679A42BAA7CEF2BE41BDFF1121BF.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/ES/S18AIDLSKOHBVQCGW28EIZ.uasset'
+[2025.03.10-01.42.04:384][794]LogSavePackage: Moving output files for package: /Game/Blueprints/UI_EnemyCombat
+[2025.03.10-01.42.04:385][794]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/UI_EnemyCombatAC77B0A34C727183FD89F7AC0D350BA5.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Content/Blueprints/UI_EnemyCombat.uasset'
+[2025.03.10-01.42.04:393][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 341 ms (total: 749 ms)
+[2025.03.10-01.42.04:396][794]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.10-01.42.04:396][794]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Suspect.BP_Suspect
+[2025.03.10-01.42.04:396][794]LogContentValidation: Display: Validating /Game/Blueprints/BP_Suspect.BP_Suspect_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Suspect_C_UAID_F46ADDE29ECE8B5302_1648320607
+[2025.03.10-01.42.04:396][794]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI_EnemyCombat.UI_EnemyCombat
+[2025.03.10-01.43.48:593][873]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2025.03.10-01.43.50:376][980]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.43.50:422][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.10-01.44.34:641][550]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1306.871826
+[2025.03.10-01.44.34:739][556]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-01.44.34:739][556]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1306.954224, Update Interval: 356.599640
+[2025.03.10-01.44.51:820][551]Cmd: TRANSACTION UNDO
+[2025.03.10-01.44.51:820][551]LogEditorTransaction: Undo Rename Widget
+[2025.03.10-01.44.52:174][556]Cmd: TRANSACTION UNDO
+[2025.03.10-01.44.52:174][556]LogEditorTransaction: Undo Rename Widget
+[2025.03.10-01.44.52:554][571]Cmd: TRANSACTION UNDO
+[2025.03.10-01.44.52:554][571]LogEditorTransaction: Undo Rename Widget
+[2025.03.10-01.45.44:904][610]BlueprintLog: New page: Compile UI_EnemyCombat
+[2025.03.10-01.45.44:906][610]LogBlueprint: Error: [AssetLog] C:\Users\chemb\OneDrive\Documents\gitRepositories\Mattress-Stuffing\Nior_Demo_3_5\Noir_Demo\Content\Blueprints\UI_EnemyCombat.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Suspect  to imply a specific type.
+[2025.03.10-01.45.44:906][610]LogBlueprint: Error: [AssetLog] C:\Users\chemb\OneDrive\Documents\gitRepositories\Mattress-Stuffing\Nior_Demo_3_5\Noir_Demo\Content\Blueprints\UI_EnemyCombat.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.03.10-01.45.44:978][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.10-01.47.13:085][674]BlueprintLog: New page: Compile UI_EnemyCombat
+[2025.03.10-01.47.13:160][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.10-01.47.26:509][457]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-01.47.32:990][832]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-01.47.40:966][295]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-01.47.45:057][528]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-01.47.48:463][719]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-01.47.51:599][895]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-01.47.52:895][973]BlueprintLog: New page: Compile UI_EnemyCombat
+[2025.03.10-01.47.52:978][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.10-01.48.01:234][457]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.10-01.48.01:242][457]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.10-01.48.01:242][457]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2025.03.10-01.48.01:245][457]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2 ms (total: 4 ms)
+[2025.03.10-01.48.01:245][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.10-01.48.01:245][457]PIE: New page: PIE session: TopDownMap (Mar 9, 2025, 5:48:01 PM)
+[2025.03.10-01.48.01:246][457]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.03.10-01.48.01:254][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008484s)
+[2025.03.10-01.48.01:254][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.008524s)
+[2025.03.10-01.48.01:267][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.10-01.48.01:270][457]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.10-01.48.01:270][457]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.10-01.48.01:271][457]LogAIModule: Creating AISystem for world TopDownMap
+[2025.03.10-01.48.01:271][457]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.10-01.48.01:271][457]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.10-01.48.01:271][457]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.10-01.48.01:271][457]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.10-01.48.01:273][457]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2025.03.10-01.48.01:273][457]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.12 sec)
+[2025.03.10-01.48.01:273][457]LogPlayLevel: PIE: World Init took: (0.002682s)
+[2025.03.10-01.48.01:273][457]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.03.10-01.48.01:273][457]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.10-01.48.01:273][457]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.10-01.48.01:273][457]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.10-01.48.01:273][457]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.10-01.48.01:273][457]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.10-01.48.01:273][457]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.10-01.48.01:273][457]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.10-01.48.01:273][457]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.10-01.48.01:273][457]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.10-01.48.01:273][457]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.10-01.48.01:273][457]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.10-01.48.01:275][457]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.10-01.48.01:294][457]LogAudioMixer: Display: Using Audio Hardware Device Speakers (BW01)
+[2025.03.10-01.48.01:294][457]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.10-01.48.01:294][457]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.10-01.48.01:294][457]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.10-01.48.01:295][457]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.03.10-01.48.01:295][457]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.03.10-01.48.01:297][457]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.03.10-01.48.01:297][457]LogInit: FAudioDevice initialized with ID 3.
+[2025.03.10-01.48.01:297][457]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.03.10-01.48.01:297][457]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownMap'.
+[2025.03.10-01.48.01:297][457]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.10-01.48.01:300][457]LogLoad: Game class is 'BP_DialogueGameMode_C'
+[2025.03.10-01.48.01:306][457]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2025.03.09-21.48.01
+[2025.03.10-01.48.01:306][457]LogWorld: Bringing up level for play took: 0.005790
+[2025.03.10-01.48.01:308][457]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.03.10-01.48.01:313][457]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.03.10-01.48.01:313][457]PIE: Server logged in
+[2025.03.10-01.48.01:314][457]PIE: Play in editor total start time 0.071 seconds.
+[2025.03.10-01.48.03:203][563]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2025.03.10-01.48.03:203][563]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.10-01.48.03:203][563]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.10-01.48.05:236][685]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.10-01.48.05:236][685]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.10-01.48.05:236][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-01.48.06:028][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-01.48.06:028][731]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.03.10-01.48.06:029][731]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-01.48.06:029][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-01.48.06:029][731]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2025.03.10-01.48.06:033][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.10-01.48.06:037][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-01.48.06:054][731]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.10-01.48.06:054][731]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.10-01.48.06:054][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.10-01.48.06:056][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.10-01.48.06:059][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-01.48.06:062][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.10-01.48.06:140][733]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.03.10-01.48.58:323][817]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.48.58:371][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.10-01.49.14:258][759]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.49.14:307][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.10-01.50.05:014][651]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.50.05:066][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.03.10-01.50.06:512][720]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.10-01.50.06:520][720]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.10-01.50.06:520][720]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2025.03.10-01.50.06:522][720]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 6 ms)
+[2025.03.10-01.50.06:522][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.10-01.50.06:522][720]PIE: New page: PIE session: TopDownMap (Mar 9, 2025, 5:50:06 PM)
+[2025.03.10-01.50.06:522][720]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.03.10-01.50.06:529][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007591s)
+[2025.03.10-01.50.06:529][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.007632s)
+[2025.03.10-01.50.06:542][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.10-01.50.06:544][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.10-01.50.06:545][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.10-01.50.06:545][720]LogAIModule: Creating AISystem for world TopDownMap
+[2025.03.10-01.50.06:545][720]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.10-01.50.06:545][720]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.10-01.50.06:545][720]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.10-01.50.06:545][720]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.10-01.50.06:547][720]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2025.03.10-01.50.06:547][720]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.12 sec)
+[2025.03.10-01.50.06:547][720]LogPlayLevel: PIE: World Init took: (0.002633s)
+[2025.03.10-01.50.06:547][720]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.03.10-01.50.06:547][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.10-01.50.06:547][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.10-01.50.06:547][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.10-01.50.06:547][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.10-01.50.06:547][720]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.10-01.50.06:547][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.10-01.50.06:547][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.10-01.50.06:547][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.10-01.50.06:547][720]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.10-01.50.06:547][720]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.10-01.50.06:547][720]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.10-01.50.06:549][720]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.10-01.50.06:566][720]LogAudioMixer: Display: Using Audio Hardware Device Speakers (BW01)
+[2025.03.10-01.50.06:567][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.10-01.50.06:567][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.10-01.50.06:567][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.10-01.50.06:567][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.03.10-01.50.06:567][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.03.10-01.50.06:569][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.03.10-01.50.06:569][720]LogInit: FAudioDevice initialized with ID 4.
+[2025.03.10-01.50.06:569][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.03.10-01.50.06:569][720]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownMap'.
+[2025.03.10-01.50.06:569][720]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.10-01.50.06:572][720]LogLoad: Game class is 'BP_DialogueGameMode_C'
+[2025.03.10-01.50.06:578][720]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2025.03.09-21.50.06
+[2025.03.10-01.50.06:578][720]LogWorld: Bringing up level for play took: 0.006116
+[2025.03.10-01.50.06:580][720]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.03.10-01.50.06:586][720]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.03.10-01.50.06:586][720]PIE: Server logged in
+[2025.03.10-01.50.06:587][720]PIE: Play in editor total start time 0.067 seconds.
+[2025.03.10-01.50.08:443][825]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2025.03.10-01.50.08:443][825]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.10-01.50.08:443][825]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.10-01.50.09:765][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-01.50.09:765][903]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.03.10-01.50.09:766][903]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-01.50.09:766][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-01.50.09:766][903]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2025.03.10-01.50.09:770][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.10-01.50.09:776][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-01.50.09:792][903]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.10-01.50.09:793][903]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.10-01.50.09:793][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.10-01.50.09:794][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.10-01.50.09:797][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-01.50.09:801][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.10-01.50.09:877][905]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.03.10-01.50.14:585][187]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.50.14:635][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.10-01.50.15:534][223]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.10-01.50.15:542][223]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.10-01.50.15:542][223]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2025.03.10-01.50.15:543][223]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 1 ms (total: 8 ms)
+[2025.03.10-01.50.15:543][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.10-01.50.15:543][223]PIE: New page: PIE session: TopDownMap (Mar 9, 2025, 5:50:15 PM)
+[2025.03.10-01.50.15:543][223]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.03.10-01.50.15:551][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007007s)
+[2025.03.10-01.50.15:551][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.007043s)
+[2025.03.10-01.50.15:565][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.10-01.50.15:567][223]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.10-01.50.15:567][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.10-01.50.15:567][223]LogAIModule: Creating AISystem for world TopDownMap
+[2025.03.10-01.50.15:568][223]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.10-01.50.15:568][223]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.10-01.50.15:568][223]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.10-01.50.15:568][223]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.10-01.50.15:569][223]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2025.03.10-01.50.15:569][223]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.12 sec)
+[2025.03.10-01.50.15:569][223]LogPlayLevel: PIE: World Init took: (0.002711s)
+[2025.03.10-01.50.15:569][223]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.03.10-01.50.15:570][223]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.10-01.50.15:570][223]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.10-01.50.15:570][223]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.10-01.50.15:570][223]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.10-01.50.15:570][223]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.10-01.50.15:570][223]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.10-01.50.15:570][223]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.10-01.50.15:570][223]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.10-01.50.15:570][223]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.10-01.50.15:570][223]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.10-01.50.15:570][223]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.10-01.50.15:572][223]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.10-01.50.15:589][223]LogAudioMixer: Display: Using Audio Hardware Device Speakers (BW01)
+[2025.03.10-01.50.15:589][223]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.10-01.50.15:589][223]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.10-01.50.15:589][223]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.10-01.50.15:590][223]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.03.10-01.50.15:590][223]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.03.10-01.50.15:592][223]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.03.10-01.50.15:592][223]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.03.10-01.50.15:592][223]LogInit: FAudioDevice initialized with ID 5.
+[2025.03.10-01.50.15:592][223]LogAudio: Display: Audio Device (ID: 5) registered with world 'TopDownMap'.
+[2025.03.10-01.50.15:592][223]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.03.10-01.50.15:595][223]LogLoad: Game class is 'BP_DialogueGameMode_C'
+[2025.03.10-01.50.15:600][223]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2025.03.09-21.50.15
+[2025.03.10-01.50.15:600][223]LogWorld: Bringing up level for play took: 0.005050
+[2025.03.10-01.50.15:603][223]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.03.10-01.50.15:607][223]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2025.03.10-01.50.15:607][223]PIE: Server logged in
+[2025.03.10-01.50.15:607][223]PIE: Play in editor total start time 0.065 seconds.
+[2025.03.10-01.50.17:839][351]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2025.03.10-01.50.17:839][351]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.10-01.50.17:839][351]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.10-01.50.19:788][468]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.10-01.50.19:788][468]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.10-01.50.19:788][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-01.50.21:056][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-01.50.21:056][542]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.03.10-01.50.21:056][542]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-01.50.21:057][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-01.50.21:057][542]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2025.03.10-01.50.21:061][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.10-01.50.21:065][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-01.50.21:082][542]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.10-01.50.21:083][542]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.03.10-01.50.21:083][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.10-01.50.21:085][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.10-01.50.21:089][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-01.50.21:092][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.10-01.50.21:126][543]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.03.10-01.50.48:422][145]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.50.48:470][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.10-01.50.55:475][549]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1687.697998
+[2025.03.10-01.50.55:575][555]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-01.50.55:575][555]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1687.780762, Update Interval: 350.972626
+[2025.03.10-01.52.01:046][309]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.52.01:096][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.10-01.53.01:329][759]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.53.01:379][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.10-01.54.12:775][885]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.54.12:824][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.10-01.54.41:211][572]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.54.41:259][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.10-01.55.45:934][374]BlueprintLog: New page: Compile UI_EnemyCombat
+[2025.03.10-01.55.46:017][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.03.10-01.56.22:199][503]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.56.22:253][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.03.10-01.56.53:980][386]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.56.54:031][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.10-01.57.18:318][824]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-01.57.18:373][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.10-01.57.43:932][124]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2096.159668
+[2025.03.10-01.57.44:935][127]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-01.57.44:935][127]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2096.826660, Update Interval: 354.589081
+[2025.03.10-01.58.05:073][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.10-01.58.05:080][186]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/ES/S18AIDLSKOHBVQCGW28EIZ_Auto2
+[2025.03.10-01.58.05:080][186]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/S18AIDLSKOHBVQCGW28EIZ_Auto244348DAF4D1052B4668E8198C395CF4B.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/ES/S18AIDLSKOHBVQCGW28EIZ_Auto2.uasset'
+[2025.03.10-01.58.05:081][186]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.025
+[2025.03.10-01.58.05:081][186]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2025.03.10-01.58.05:083][186]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Suspect] ([2] browsable assets)...
+[2025.03.10-01.58.05:258][186]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Suspect.BP_Suspect]
+[2025.03.10-01.58.05:259][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Suspect]
+[2025.03.10-01.58.05:273][186]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Suspect_Auto2
+[2025.03.10-01.58.05:274][186]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/BP_Suspect_Auto2219C38784B144CF2E6EDB8A21849C177.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/Autosaves/Game/Blueprints/BP_Suspect_Auto2.uasset'
+[2025.03.10-01.58.05:275][186]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI_EnemyCombat] ([2] browsable assets)...
+[2025.03.10-01.58.05:280][186]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI_EnemyCombat.UI_EnemyCombat]
+[2025.03.10-01.58.05:280][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI_EnemyCombat]
+[2025.03.10-01.58.05:286][186]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI_EnemyCombat_Auto2
+[2025.03.10-01.58.05:286][186]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/UI_EnemyCombat_Auto2334A7AF7427178CA0254919E7E4B454E.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/Autosaves/Game/Blueprints/UI_EnemyCombat_Auto2.uasset'
+[2025.03.10-01.58.05:287][186]LogFileHelpers: Auto-saving content packages took 0.205
+[2025.03.10-02.01.01:480][414]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.01.01:533][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.10-02.02.36:016][826]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.02.36:069][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.10-02.03.29:621][587]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.03.29:672][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.03.10-02.03.59:922][341]LogEditorTransaction: Undo Remove Widget
+[2025.03.10-02.04.08:086][778]BlueprintLog: New page: Compile UI_EnemyCombat
+[2025.03.10-02.04.08:165][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.03.10-02.04.16:052][223]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2488.272461
+[2025.03.10-02.04.16:136][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-02.04.16:136][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2488.340332, Update Interval: 300.413818
+[2025.03.10-02.04.45:655][941]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.04.45:708][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.10-02.07.36:259][362]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.07.36:312][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.10-02.08.03:636][902]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.08.03:688][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.03.10-02.08.10:743][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.10-02.08.11:559][319]LogSlate: Window 'Save Content' being destroyed
+[2025.03.10-02.08.11:567][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-02.08.11:862][319]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Suspect
+[2025.03.10-02.08.11:863][319]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/BP_SuspectF6F72F1A4D11BED6C9DB1BB8F5A826CD.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Content/Blueprints/BP_Suspect.uasset'
+[2025.03.10-02.08.11:866][319]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/ES/S18AIDLSKOHBVQCGW28EIZ
+[2025.03.10-02.08.11:867][319]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/S18AIDLSKOHBVQCGW28EIZ2608824B44B31B78F856EF878E417F67.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/ES/S18AIDLSKOHBVQCGW28EIZ.uasset'
+[2025.03.10-02.08.11:880][319]LogSavePackage: Moving output files for package: /Game/Blueprints/UI_EnemyCombat
+[2025.03.10-02.08.11:881][319]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/UI_EnemyCombatCBDAB42A4335207A8A407A8878AFC68F.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Content/Blueprints/UI_EnemyCombat.uasset'
+[2025.03.10-02.08.11:889][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 322 ms (total: 1.07 sec)
+[2025.03.10-02.08.11:891][319]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.10-02.08.11:891][319]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Suspect.BP_Suspect
+[2025.03.10-02.08.11:891][319]LogContentValidation: Display: Validating /Game/Blueprints/BP_Suspect.BP_Suspect_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Suspect_C_UAID_F46ADDE29ECE8B5302_1648320607
+[2025.03.10-02.08.11:891][319]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI_EnemyCombat.UI_EnemyCombat
+[2025.03.10-02.08.38:033][875]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.08.38:084][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.10-02.09.42:045][369]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.09.42:098][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.10-02.10.01:745][489]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2833.960449
+[2025.03.10-02.10.01:845][495]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-02.10.01:845][495]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2834.043701, Update Interval: 301.038239
+[2025.03.10-02.10.09:161][924]LogEditorTransaction: Undo Move Node
+[2025.03.10-02.10.09:385][929]LogEditorTransaction: Undo Delete current selection
+[2025.03.10-02.10.09:688][936]LogEditorTransaction: Undo Move Nodes
+[2025.03.10-02.10.09:988][952]LogEditorTransaction: Undo Change Class Pin Value
+[2025.03.10-02.10.10:336][971]LogEditorTransaction: Undo Change Class Pin Value
+[2025.03.10-02.10.10:687][990]LogEditorTransaction: Undo Move Node
+[2025.03.10-02.10.11:055][ 10]LogEditorTransaction: Undo Add Node
+[2025.03.10-02.10.11:420][ 30]LogEditorTransaction: Undo Move Node
+[2025.03.10-02.10.55:244][609]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.10.55:302][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.10-02.11.29:498][557]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.11.29:551][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.10-02.11.46:773][558]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.11.46:825][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.10-02.11.50:871][790]LogEditorTransaction: Undo Create Pin Link
+[2025.03.10-02.11.51:147][793]LogEditorTransaction: Undo Delete current selection
+[2025.03.10-02.11.51:418][799]LogEditorTransaction: Undo Delete current selection
+[2025.03.10-02.11.51:767][815]LogEditorTransaction: Undo Break Pin Links
+[2025.03.10-02.11.52:033][826]LogEditorTransaction: Undo Add Node
+[2025.03.10-02.11.52:284][836]LogEditorTransaction: Undo Delete current selection
+[2025.03.10-02.11.52:534][846]LogEditorTransaction: Undo Add Node
+[2025.03.10-02.11.52:775][855]LogEditorTransaction: Undo Move Node
+[2025.03.10-02.11.52:995][863]LogEditorTransaction: Undo Move Node
+[2025.03.10-02.11.53:233][872]LogEditorTransaction: Undo Change Class Pin Value
+[2025.03.10-02.11.53:484][882]LogEditorTransaction: Undo Move Node
+[2025.03.10-02.11.53:735][892]LogEditorTransaction: Undo Move Node
+[2025.03.10-02.11.53:975][901]LogEditorTransaction: Undo Move Node
+[2025.03.10-02.11.54:191][909]LogEditorTransaction: Undo Move Node
+[2025.03.10-02.11.54:412][917]LogEditorTransaction: Undo Move Node
+[2025.03.10-02.11.54:704][920]LogEditorTransaction: Undo Move Node
+[2025.03.10-02.11.54:875][922]LogEditorTransaction: Undo Move Node
+[2025.03.10-02.11.55:112][929]LogEditorTransaction: Undo Add Node
+[2025.03.10-02.11.55:501][947]LogEditorTransaction: Undo Move Node
+[2025.03.10-02.12.48:529][110]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.12.48:600][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.03.10-02.12.58:992][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.10-02.12.59:953][724]LogSlate: Window 'Save Content' being destroyed
+[2025.03.10-02.12.59:962][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-02.13.00:306][724]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Suspect
+[2025.03.10-02.13.00:307][724]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/BP_SuspectA8A48D604CD5F161AB03A89328E33EB4.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Content/Blueprints/BP_Suspect.uasset'
+[2025.03.10-02.13.00:316][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 354 ms (total: 1.42 sec)
+[2025.03.10-02.13.00:319][724]AssetCheck: New page: Asset Save: BP_Suspect
+[2025.03.10-02.13.00:319][724]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Suspect.BP_Suspect
+[2025.03.10-02.13.25:973][253]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.13.26:024][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.03.10-02.13.56:156][ 16]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.13.56:209][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.03.10-02.15.03:200][615]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.15.03:253][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.10-02.15.34:568][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.03.10-02.15.34:573][ 56]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.019
+[2025.03.10-02.15.34:573][ 56]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Suspect] ([2] browsable assets)...
+[2025.03.10-02.15.34:731][ 56]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Suspect.BP_Suspect]
+[2025.03.10-02.15.34:731][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Suspect]
+[2025.03.10-02.15.34:744][ 56]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Suspect_Auto3
+[2025.03.10-02.15.34:744][ 56]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/BP_Suspect_Auto31B151D0245A50CC671AEA19771E26BAE.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/Autosaves/Game/Blueprints/BP_Suspect_Auto3.uasset'
+[2025.03.10-02.15.34:745][ 56]LogFileHelpers: Auto-saving content packages took 0.173
+[2025.03.10-02.15.47:584][329]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3179.795898
+[2025.03.10-02.15.47:678][335]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-02.15.47:678][335]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3179.872803, Update Interval: 338.480774
+[2025.03.10-02.16.31:770][740]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.16.31:825][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.10-02.18.10:221][150]LogEditorTransaction: Undo Move Nodes
+[2025.03.10-02.18.10:751][163]LogEditorTransaction: Undo Delete current selection
+[2025.03.10-02.18.11:222][189]LogEditorTransaction: Undo Move Nodes
+[2025.03.10-02.18.11:709][216]LogEditorTransaction: Undo Create Pin Link
+[2025.03.10-02.18.12:159][241]LogEditorTransaction: Undo Move Node
+[2025.03.10-02.19.59:539][715]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.19.59:543][715]LogBlueprint: Warning: [AssetLog] C:\Users\chemb\OneDrive\Documents\gitRepositories\Mattress-Stuffing\Nior_Demo_3_5\Noir_Demo\Content\Blueprints\BP_Suspect.uasset: [Compiler] 'BP Suspect' does not inherit from 'User Widget' ( Cast To BP_Suspect  would always fail).
+[2025.03.10-02.19.59:596][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.03.10-02.21.37:010][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-02.21.37:265][ 36]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Suspect
+[2025.03.10-02.21.37:267][ 36]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/BP_Suspect3F3B3AD142C8C12B7DE1AA800200E9A0.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Content/Blueprints/BP_Suspect.uasset'
+[2025.03.10-02.21.37:277][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 266 ms (total: 1.69 sec)
+[2025.03.10-02.21.37:278][ 36]AssetCheck: New page: Asset Save: BP_Suspect
+[2025.03.10-02.21.37:278][ 36]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Suspect.BP_Suspect
+[2025.03.10-02.21.39:085][145]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.10-02.21.39:144][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.10-02.21.44:367][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-02.21.44:629][452]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Suspect
+[2025.03.10-02.21.44:641][452]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/BP_Suspect4B37535941935F5E69034CB90B478D31.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Content/Blueprints/BP_Suspect.uasset'
+[2025.03.10-02.21.44:651][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 283 ms (total: 1.97 sec)
+[2025.03.10-02.21.44:652][452]AssetCheck: New page: Asset Save: BP_Suspect
+[2025.03.10-02.21.44:652][452]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Suspect.BP_Suspect
+[2025.03.10-02.21.48:506][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.10-02.21.48:519][683]LogStall: Shutdown...
+[2025.03.10-02.21.48:529][683]LogStall: Shutdown complete.
+[2025.03.10-02.21.48:582][683]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-02.21.48:582][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-02.21.48:718][683]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.10-02.21.48:718][683]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-02.21.48:718][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-02.21.48:859][683]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-02.21.48:859][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-02.21.48:868][683]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-02.21.48:868][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-02.21.48:956][683]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-02.21.48:956][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-02.21.48:965][683]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-02.21.48:965][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-02.21.49:016][683]LogSlate: Window 'Noir_Demo - Unreal Editor' being destroyed
+[2025.03.10-02.21.49:289][684]Cmd: QUIT_EDITOR
+[2025.03.10-02.21.49:289][684]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.10-02.21.49:297][684]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.10-02.21.49:297][684]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.10-02.21.49:297][684]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.10-02.21.49:300][684]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-02.21.49:300][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-02.21.49:302][684]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2025.03.10-02.21.49:315][684]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.10-02.21.50:011][684]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.10-02.21.50:011][684]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.10-02.21.50:011][684]LogAudio: Display: Audio Device unregistered from world 'TopDownMap'.
+[2025.03.10-02.21.50:011][684]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.03.10-02.21.50:012][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.10-02.21.50:014][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.10-02.21.50:023][684]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.10-02.21.50:024][684]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.03.10-02.21.50:028][684]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.10-02.21.50:029][684]LogExit: Preparing to exit.
+[2025.03.10-02.21.50:393][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.03.10-02.21.50:408][684]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:408][684]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:416][684]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.50:418][684]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.10-02.21.51:526][684]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-02.21.51:528][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:528][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:528][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:528][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:528][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:528][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:528][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:528][684]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-02.21.51:530][684]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-02.21.51:532][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:532][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:532][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:532][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:532][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:532][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:532][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:532][684]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-02.21.51:532][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:532][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:532][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:532][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:532][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:532][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:532][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:532][684]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-02.21.51:533][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:533][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:533][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:533][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:533][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:533][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:533][684]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.03.10-02.21.51:533][684]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-02.21.51:601][684]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.10-02.21.51:687][684]LogExit: Editor shut down
+[2025.03.10-02.21.51:695][684]LogExit: Transaction tracking system shut down
+[2025.03.10-02.21.52:234][684]LogExit: Object subsystem successfully closed.
+[2025.03.10-02.21.52:242][684]LogShaderCompilers: Display: ================================================
+[2025.03.10-02.21.52:242][684]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.10-02.21.52:242][684]LogShaderCompilers: Display: Total job queries 28, among them cache hits 8 (28.57%)
+[2025.03.10-02.21.52:242][684]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 17 distinct outputs (85.00%)
+[2025.03.10-02.21.52:242][684]LogShaderCompilers: Display: RAM used: 469.92 KiB of 819.20 MiB budget. Usage: 0.06%
+[2025.03.10-02.21.52:242][684]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.10-02.21.52:242][684]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.03.10-02.21.52:242][684]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.03.10-02.21.52:242][684]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.03.10-02.21.52:242][684]LogShaderCompilers: Display: ================================================
+[2025.03.10-02.21.52:343][684]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.10-02.21.52:376][684]LogVirtualization: UE::Virtualization was shutdown
+[2025.03.10-02.21.52:431][684]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1090)
+[2025.03.10-02.21.52:431][684]LogModuleManager: Shutting down and abandoning module Voice (1088)
+[2025.03.10-02.21.52:431][684]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1086)
+[2025.03.10-02.21.52:432][684]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1084)
+[2025.03.10-02.21.52:432][684]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (1082)
+[2025.03.10-02.21.52:432][684]LogModuleManager: Shutting down and abandoning module AddContentDialog (1080)
+[2025.03.10-02.21.52:432][684]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1079)
+[2025.03.10-02.21.52:432][684]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1076)
+[2025.03.10-02.21.52:432][684]LogModuleManager: Shutting down and abandoning module SceneOutliner (1074)
+[2025.03.10-02.21.52:432][684]LogModuleManager: Shutting down and abandoning module StatusBar (1072)
+[2025.03.10-02.21.52:432][684]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1070)
+[2025.03.10-02.21.52:432][684]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1068)
+[2025.03.10-02.21.52:433][684]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1066)
+[2025.03.10-02.21.52:433][684]LogModuleManager: Shutting down and abandoning module StatsViewer (1064)
+[2025.03.10-02.21.52:433][684]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1062)
+[2025.03.10-02.21.52:433][684]LogModuleManager: Shutting down and abandoning module AutomationWorker (1060)
+[2025.03.10-02.21.52:433][684]LogModuleManager: Shutting down and abandoning module ConcertTakeRecorder (1058)
+[2025.03.10-02.21.52:434][684]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1056)
+[2025.03.10-02.21.52:434][684]LogModuleManager: Shutting down and abandoning module BspMode (1054)
+[2025.03.10-02.21.52:434][684]LogModuleManager: Shutting down and abandoning module GeometryMode (1052)
+[2025.03.10-02.21.52:434][684]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1050)
+[2025.03.10-02.21.52:434][684]LogModuleManager: Shutting down and abandoning module SmartSnapping (1048)
+[2025.03.10-02.21.52:434][684]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1046)
+[2025.03.10-02.21.52:435][684]LogModuleManager: Shutting down and abandoning module PlanarCut (1044)
+[2025.03.10-02.21.52:435][684]LogModuleManager: Shutting down and abandoning module FractureEngine (1042)
+[2025.03.10-02.21.52:435][684]LogModuleManager: Shutting down and abandoning module CharacterAI (1040)
+[2025.03.10-02.21.52:435][684]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1038)
+[2025.03.10-02.21.52:436][684]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1036)
+[2025.03.10-02.21.52:436][684]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1034)
+[2025.03.10-02.21.52:436][684]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1032)
+[2025.03.10-02.21.52:436][684]LogModuleManager: Shutting down and abandoning module WebMMedia (1030)
+[2025.03.10-02.21.52:436][684]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1028)
+[2025.03.10-02.21.52:436][684]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (1026)
+[2025.03.10-02.21.52:436][684]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (1024)
+[2025.03.10-02.21.52:436][684]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (1022)
+[2025.03.10-02.21.52:437][684]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1020)
+[2025.03.10-02.21.52:438][684]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1019)
+[2025.03.10-02.21.52:438][684]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (1016)
+[2025.03.10-02.21.52:438][684]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (1014)
+[2025.03.10-02.21.52:438][684]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (1012)
+[2025.03.10-02.21.52:438][684]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (1010)
+[2025.03.10-02.21.52:438][684]LogModuleManager: Shutting down and abandoning module IKRigEditor (1008)
+[2025.03.10-02.21.52:439][684]LogModuleManager: Shutting down and abandoning module ControlRigEditor (1006)
+[2025.03.10-02.21.52:440][684]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1004)
+[2025.03.10-02.21.52:441][684]LogModuleManager: Shutting down and abandoning module RigVMEditor (1002)
+[2025.03.10-02.21.52:441][684]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1000)
+[2025.03.10-02.21.52:441][684]LogModuleManager: Shutting down and abandoning module GooglePADEditor (998)
+[2025.03.10-02.21.52:441][684]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (996)
+[2025.03.10-02.21.52:441][684]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (994)
+[2025.03.10-02.21.52:441][684]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (992)
+[2025.03.10-02.21.52:441][684]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (990)
+[2025.03.10-02.21.52:441][684]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (988)
+[2025.03.10-02.21.52:442][684]LogModuleManager: Shutting down and abandoning module SessionServices (986)
+[2025.03.10-02.21.52:442][684]LogModuleManager: Shutting down and abandoning module MeshPaint (984)
+[2025.03.10-02.21.52:442][684]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (982)
+[2025.03.10-02.21.52:442][684]LogModuleManager: Shutting down and abandoning module PlacementMode (981)
+[2025.03.10-02.21.52:443][684]LogModuleManager: Shutting down and abandoning module FoliageEdit (978)
+[2025.03.10-02.21.52:443][684]LogModuleManager: Shutting down and abandoning module LandscapeEditor (976)
+[2025.03.10-02.21.52:445][684]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (974)
+[2025.03.10-02.21.52:445][684]LogModuleManager: Shutting down and abandoning module ActorPickerMode (972)
+[2025.03.10-02.21.52:445][684]LogModuleManager: Shutting down and abandoning module ViewportSnapping (970)
+[2025.03.10-02.21.52:445][684]LogModuleManager: Shutting down and abandoning module EditorWidgets (968)
+[2025.03.10-02.21.52:445][684]LogModuleManager: Shutting down and abandoning module ViewportInteraction (966)
+[2025.03.10-02.21.52:445][684]LogModuleManager: Shutting down and abandoning module ClothPainter (964)
+[2025.03.10-02.21.52:446][684]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (963)
+[2025.03.10-02.21.52:446][684]LogModuleManager: Shutting down and abandoning module WidgetRegistration (960)
+[2025.03.10-02.21.52:446][684]LogModuleManager: Shutting down and abandoning module LogVisualizer (958)
+[2025.03.10-02.21.52:447][684]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (956)
+[2025.03.10-02.21.52:447][684]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (954)
+[2025.03.10-02.21.52:447][684]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (953)
+[2025.03.10-02.21.52:448][684]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (951)
+[2025.03.10-02.21.53:353][684]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (948)
+[2025.03.10-02.21.53:353][684]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (946)
+[2025.03.10-02.21.53:353][684]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (944)
+[2025.03.10-02.21.53:353][684]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (942)
+[2025.03.10-02.21.53:353][684]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (940)
+[2025.03.10-02.21.53:353][684]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (938)
+[2025.03.10-02.21.53:353][684]LogModuleManager: Shutting down and abandoning module AnimationSettings (936)
+[2025.03.10-02.21.53:353][684]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (934)
+[2025.03.10-02.21.53:353][684]LogModuleManager: Shutting down and abandoning module CSVtoSVG (932)
+[2025.03.10-02.21.53:353][684]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (930)
+[2025.03.10-02.21.53:353][684]LogModuleManager: Shutting down and abandoning module EditorConfig (928)
+[2025.03.10-02.21.53:353][684]LogModuleManager: Shutting down and abandoning module EditorFramework (926)
+[2025.03.10-02.21.53:353][684]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (924)
+[2025.03.10-02.21.53:354][684]LogModuleManager: Shutting down and abandoning module TraceInsights (922)
+[2025.03.10-02.21.53:356][684]MemoryProfiler: Shutdown
+[2025.03.10-02.21.53:357][684]NetworkingProfiler: Shutdown
+[2025.03.10-02.21.53:357][684]LoadingProfiler: Shutdown
+[2025.03.10-02.21.53:357][684]TimingProfiler: Shutdown
+[2025.03.10-02.21.53:359][684]LogModuleManager: Shutting down and abandoning module TraceServices (921)
+[2025.03.10-02.21.53:360][684]LogModuleManager: Shutting down and abandoning module TraceAnalysis (920)
+[2025.03.10-02.21.53:360][684]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (916)
+[2025.03.10-02.21.53:360][684]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (915)
+[2025.03.10-02.21.53:360][684]LogModuleManager: Shutting down and abandoning module InputBindingEditor (912)
+[2025.03.10-02.21.53:360][684]LogModuleManager: Shutting down and abandoning module MergeActors (910)
+[2025.03.10-02.21.53:360][684]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (908)
+[2025.03.10-02.21.53:360][684]LogModuleManager: Shutting down and abandoning module LocalizationService (907)
+[2025.03.10-02.21.53:360][684]LogModuleManager: Shutting down and abandoning module HardwareTargeting (904)
+[2025.03.10-02.21.53:360][684]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (902)
+[2025.03.10-02.21.53:361][684]LogModuleManager: Shutting down and abandoning module UndoHistory (900)
+[2025.03.10-02.21.53:361][684]LogModuleManager: Shutting down and abandoning module XmlParser (898)
+[2025.03.10-02.21.53:361][684]LogModuleManager: Shutting down and abandoning module Blutility (896)
+[2025.03.10-02.21.53:361][684]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (894)
+[2025.03.10-02.21.53:361][684]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (893)
+[2025.03.10-02.21.53:361][684]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (890)
+[2025.03.10-02.21.53:361][684]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (889)
+[2025.03.10-02.21.53:361][684]LogModuleManager: Shutting down and abandoning module SettingsEditor (886)
+[2025.03.10-02.21.53:361][684]LogModuleManager: Shutting down and abandoning module ProjectLauncher (884)
+[2025.03.10-02.21.53:362][684]LogModuleManager: Shutting down and abandoning module SessionFrontend (882)
+[2025.03.10-02.21.53:362][684]LogModuleManager: Shutting down and abandoning module ProfilerClient (880)
+[2025.03.10-02.21.53:362][684]LogModuleManager: Shutting down and abandoning module DeviceManager (878)
+[2025.03.10-02.21.53:362][684]LogModuleManager: Shutting down and abandoning module AutomationController (876)
+[2025.03.10-02.21.53:362][684]LogModuleManager: Shutting down and abandoning module AutomationWindow (874)
+[2025.03.10-02.21.53:363][684]LogModuleManager: Shutting down and abandoning module Layers (872)
+[2025.03.10-02.21.53:364][684]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (870)
+[2025.03.10-02.21.53:364][684]LogModuleManager: Shutting down and abandoning module DetailCustomizations (868)
+[2025.03.10-02.21.53:365][684]LogModuleManager: Shutting down and abandoning module PackagesDialog (866)
+[2025.03.10-02.21.53:365][684]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (864)
+[2025.03.10-02.21.53:365][684]LogModuleManager: Shutting down and abandoning module Persona (862)
+[2025.03.10-02.21.53:366][684]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (861)
+[2025.03.10-02.21.53:366][684]LogModuleManager: Shutting down and abandoning module Kismet (858)
+[2025.03.10-02.21.53:375][684]LogModuleManager: Shutting down and abandoning module KismetWidgets (857)
+[2025.03.10-02.21.53:375][684]LogModuleManager: Shutting down and abandoning module GraphEditor (854)
+[2025.03.10-02.21.53:375][684]LogModuleManager: Shutting down and abandoning module StructViewer (852)
+[2025.03.10-02.21.53:375][684]LogModuleManager: Shutting down and abandoning module ClassViewer (850)
+[2025.03.10-02.21.53:378][684]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (848)
+[2025.03.10-02.21.53:378][684]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (846)
+[2025.03.10-02.21.53:378][684]LogModuleManager: Shutting down and abandoning module SourceControlWindows (844)
+[2025.03.10-02.21.53:378][684]LogModuleManager: Shutting down and abandoning module OutputLog (842)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module Documentation (840)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (838)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (836)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module MovieScene (834)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (832)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (830)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (828)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module AudioMixer (827)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module AudioMixerCore (826)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module LauncherPlatform (822)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module AnalyticsET (820)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module PortalServices (818)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module PortalRpc (816)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module MessagingRpc (814)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module AIModule (812)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module GameplayDebugger (811)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module AITestSuite (809)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module NavigationSystem (807)
+[2025.03.10-02.21.53:379][684]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (804)
+[2025.03.10-02.21.53:380][684]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (802)
+[2025.03.10-02.21.53:380][684]LogModuleManager: Shutting down and abandoning module TypedElementFramework (800)
+[2025.03.10-02.21.53:380][684]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (798)
+[2025.03.10-02.21.53:380][684]LogModuleManager: Shutting down and abandoning module ProfilerService (796)
+[2025.03.10-02.21.53:485][684]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (794)
+[2025.03.10-02.21.53:486][684]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (792)
+[2025.03.10-02.21.53:486][684]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (790)
+[2025.03.10-02.21.53:486][684]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (788)
+[2025.03.10-02.21.53:486][684]LogModuleManager: Shutting down and abandoning module TakesCore (786)
+[2025.03.10-02.21.53:486][684]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (784)
+[2025.03.10-02.21.53:486][684]LogModuleManager: Shutting down and abandoning module Fab (782)
+[2025.03.10-02.21.53:486][684]LogModuleManager: Shutting down and abandoning module MegascansPlugin (780)
+[2025.03.10-02.21.53:487][684]LogModuleManager: Shutting down and abandoning module Bridge (778)
+[2025.03.10-02.21.53:487][684]LogModuleManager: Shutting down and abandoning module ConcertSharedSlate (776)
+[2025.03.10-02.21.53:487][684]LogModuleManager: Shutting down and abandoning module MultiUserClientLibrary (774)
+[2025.03.10-02.21.53:487][684]LogModuleManager: Shutting down and abandoning module MultiUserClient (772)
+[2025.03.10-02.21.53:487][684]LogModuleManager: Shutting down and abandoning module ConcertSyncClient (770)
+[2025.03.10-02.21.53:488][684]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (768)
+[2025.03.10-02.21.53:488][684]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (766)
+[2025.03.10-02.21.53:488][684]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (764)
+[2025.03.10-02.21.53:488][684]LogModuleManager: Shutting down and abandoning module CollectionManager (763)
+[2025.03.10-02.21.53:488][684]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (760)
+[2025.03.10-02.21.53:488][684]LogModuleManager: Shutting down and abandoning module LightMixer (758)
+[2025.03.10-02.21.53:488][684]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (756)
+[2025.03.10-02.21.53:489][684]LogModuleManager: Shutting down and abandoning module TakeSequencer (754)
+[2025.03.10-02.21.53:489][684]LogModuleManager: Shutting down and abandoning module TakeMovieScene (752)
+[2025.03.10-02.21.53:489][684]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (750)
+[2025.03.10-02.21.53:489][684]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (748)
+[2025.03.10-02.21.53:489][684]LogModuleManager: Shutting down and abandoning module UVEditorTools (746)
+[2025.03.10-02.21.53:489][684]LogModuleManager: Shutting down and abandoning module UVEditor (744)
+[2025.03.10-02.21.53:489][684]LogModuleManager: Shutting down and abandoning module AlembicImporter (742)
+[2025.03.10-02.21.53:490][684]LogModuleManager: Shutting down and abandoning module AlembicLibrary (741)
+[2025.03.10-02.21.53:490][684]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (738)
+[2025.03.10-02.21.53:490][684]LogModuleManager: Shutting down and abandoning module PluginBrowser (736)
+[2025.03.10-02.21.53:491][684]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (734)
+[2025.03.10-02.21.53:491][684]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (732)
+[2025.03.10-02.21.53:491][684]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (730)
+[2025.03.10-02.21.53:491][684]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (728)
+[2025.03.10-02.21.53:493][684]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (726)
+[2025.03.10-02.21.53:493][684]LogModuleManager: Shutting down and abandoning module EditorDebugTools (724)
+[2025.03.10-02.21.53:493][684]LogModuleManager: Shutting down and abandoning module CurveEditorTools (722)
+[2025.03.10-02.21.53:493][684]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (720)
+[2025.03.10-02.21.53:493][684]LogModuleManager: Shutting down and abandoning module CryptoKeys (718)
+[2025.03.10-02.21.53:493][684]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (716)
+[2025.03.10-02.21.53:493][684]LogModuleManager: Shutting down and abandoning module ChangelistReview (714)
+[2025.03.10-02.21.53:494][684]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (712)
+[2025.03.10-02.21.53:494][684]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (710)
+[2025.03.10-02.21.53:494][684]LogModuleManager: Shutting down and abandoning module Paper2DEditor (708)
+[2025.03.10-02.21.53:494][684]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (706)
+[2025.03.10-02.21.53:494][684]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (704)
+[2025.03.10-02.21.53:494][684]LogModuleManager: Shutting down and abandoning module UObjectPlugin (702)
+[2025.03.10-02.21.53:494][684]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (700)
+[2025.03.10-02.21.53:495][684]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (698)
+[2025.03.10-02.21.53:495][684]LogModuleManager: Shutting down and abandoning module PluginUtils (696)
+[2025.03.10-02.21.53:495][684]LogModuleManager: Shutting down and abandoning module GitSourceControl (694)
+[2025.03.10-02.21.53:496][684]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (692)
+[2025.03.10-02.21.53:496][684]LogModuleManager: Shutting down and abandoning module DumpGPUServices (690)
+[2025.03.10-02.21.53:496][684]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (688)
+[2025.03.10-02.21.53:496][684]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (686)
+[2025.03.10-02.21.53:496][684]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (684)
+[2025.03.10-02.21.53:496][684]LogModuleManager: Shutting down and abandoning module VariantManager (682)
+[2025.03.10-02.21.53:497][684]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (681)
+[2025.03.10-02.21.53:497][684]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (678)
+[2025.03.10-02.21.53:497][684]LogModuleManager: Shutting down and abandoning module MounteaDialogueSystemEditor (674)
+[2025.03.10-02.21.53:497][684]LogMounteaDialogueSystemEditor: Warning: MounteaDialogueSystemEditor module has been unloaded
+[2025.03.10-02.21.53:498][684]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (672)
+[2025.03.10-02.21.53:498][684]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (670)
+[2025.03.10-02.21.53:498][684]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (668)
+[2025.03.10-02.21.53:498][684]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (666)
+[2025.03.10-02.21.53:498][684]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (664)
+[2025.03.10-02.21.53:498][684]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (662)
+[2025.03.10-02.21.53:498][684]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (660)
+[2025.03.10-02.21.53:498][684]LogOpenImageDenoise: OIDN shutting down
+[2025.03.10-02.21.53:498][684]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (658)
+[2025.03.10-02.21.53:498][684]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (656)
+[2025.03.10-02.21.53:498][684]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (654)
+[2025.03.10-02.21.53:499][684]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (652)
+[2025.03.10-02.21.53:499][684]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (650)
+[2025.03.10-02.21.53:500][684]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (648)
+[2025.03.10-02.21.53:500][684]LogModuleManager: Shutting down and abandoning module LocalizableMessage (646)
+[2025.03.10-02.21.53:500][684]LogModuleManager: Shutting down and abandoning module MeshLODToolset (644)
+[2025.03.10-02.21.53:500][684]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (642)
+[2025.03.10-02.21.53:500][684]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (640)
+[2025.03.10-02.21.53:500][684]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (639)
+[2025.03.10-02.21.53:500][684]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (637)
+[2025.03.10-02.21.53:500][684]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (634)
+[2025.03.10-02.21.53:500][684]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (632)
+[2025.03.10-02.21.53:500][684]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (630)
+[2025.03.10-02.21.53:500][684]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (628)
+[2025.03.10-02.21.53:500][684]LogModuleManager: Shutting down and abandoning module DataflowNodes (626)
+[2025.03.10-02.21.53:500][684]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (624)
+[2025.03.10-02.21.53:500][684]LogModuleManager: Shutting down and abandoning module DataflowEditor (622)
+[2025.03.10-02.21.53:501][684]LogModuleManager: Shutting down and abandoning module FractureEditor (620)
+[2025.03.10-02.21.53:501][684]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (618)
+[2025.03.10-02.21.53:501][684]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (616)
+[2025.03.10-02.21.53:501][684]LogModuleManager: Shutting down and abandoning module ChaosNiagara (614)
+[2025.03.10-02.21.53:502][684]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (612)
+[2025.03.10-02.21.53:502][684]LogModuleManager: Shutting down and abandoning module BackChannel (610)
+[2025.03.10-02.21.53:502][684]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (608)
+[2025.03.10-02.21.53:502][684]LogModuleManager: Shutting down and abandoning module AutomationUtils (606)
+[2025.03.10-02.21.53:502][684]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (604)
+[2025.03.10-02.21.53:502][684]LogModuleManager: Shutting down and abandoning module MediaPlate (602)
+[2025.03.10-02.21.53:502][684]LogModuleManager: Shutting down and abandoning module ImgMedia (600)
+[2025.03.10-02.21.53:502][684]LogModuleManager: Shutting down and abandoning module MediaCompositing (598)
+[2025.03.10-02.21.53:502][684]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (596)
+[2025.03.10-02.21.53:503][684]LogModuleManager: Shutting down and abandoning module InterchangeTests (594)
+[2025.03.10-02.21.53:503][684]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (592)
+[2025.03.10-02.21.53:503][684]LogModuleManager: Shutting down and abandoning module ControlRigSpline (590)
+[2025.03.10-02.21.53:503][684]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (588)
+[2025.03.10-02.21.53:503][684]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (586)
+[2025.03.10-02.21.53:503][684]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (584)
+[2025.03.10-02.21.53:503][684]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (582)
+[2025.03.10-02.21.53:503][684]LogModuleManager: Shutting down and abandoning module InterchangeEditor (580)
+[2025.03.10-02.21.53:503][684]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (578)
+[2025.03.10-02.21.53:503][684]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (576)
+[2025.03.10-02.21.53:503][684]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (574)
+[2025.03.10-02.21.53:504][684]LogModuleManager: Shutting down and abandoning module InterchangeExport (572)
+[2025.03.10-02.21.53:504][684]LogModuleManager: Shutting down and abandoning module InterchangeMessages (570)
+[2025.03.10-02.21.53:504][684]LogModuleManager: Shutting down and abandoning module GLTFCore (568)
+[2025.03.10-02.21.53:504][684]LogModuleManager: Shutting down and abandoning module SynthesisEditor (566)
+[2025.03.10-02.21.53:504][684]LogModuleManager: Shutting down and abandoning module ResonanceAudio (564)
+[2025.03.10-02.21.53:504][684]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (562)
+[2025.03.10-02.21.53:504][684]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (560)
+[2025.03.10-02.21.53:504][684]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (558)
+[2025.03.10-02.21.53:504][684]LogModuleManager: Shutting down and abandoning module ModelingOperators (556)
+[2025.03.10-02.21.53:504][684]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (554)
+[2025.03.10-02.21.53:504][684]LogModuleManager: Shutting down and abandoning module ModelingComponents (552)
+[2025.03.10-02.21.53:504][684]LogModuleManager: Shutting down and abandoning module GeometryFramework (551)
+[2025.03.10-02.21.53:504][684]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (548)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module MeshModelingTools (546)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (544)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module InputDebugging (542)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module GooglePAD (540)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module DynamicMesh (538)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (536)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (534)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module GeometryCache (532)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (530)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (528)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (526)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module AudioCapture (524)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (523)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module AssetTags (520)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (518)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (516)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module AppleImageUtils (514)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module AndroidPermission (512)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (510)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module SequencerScripting (508)
+[2025.03.10-02.21.53:505][684]LogModuleManager: Shutting down and abandoning module TemplateSequence (506)
+[2025.03.10-02.21.53:506][684]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (504)
+[2025.03.10-02.21.53:506][684]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (502)
+[2025.03.10-02.21.53:506][684]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (500)
+[2025.03.10-02.21.53:507][684]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (498)
+[2025.03.10-02.21.53:507][684]LogModuleManager: Shutting down and abandoning module TraceUtilities (496)
+[2025.03.10-02.21.53:507][684]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (494)
+[2025.03.10-02.21.53:507][684]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (492)
+[2025.03.10-02.21.53:507][684]LogModuleManager: Shutting down and abandoning module InputEditor (490)
+[2025.03.10-02.21.53:508][684]LogModuleManager: Shutting down and abandoning module ConcertSyncCore (488)
+[2025.03.10-02.21.53:508][684]LogModuleManager: Shutting down and abandoning module SQLiteCore (486)
+[2025.03.10-02.21.53:508][684]LogModuleManager: Shutting down and abandoning module ConcertServer (484)
+[2025.03.10-02.21.53:508][684]LogModuleManager: Shutting down and abandoning module ConcertClient (482)
+[2025.03.10-02.21.53:508][684]LogModuleManager: Shutting down and abandoning module ConcertTransport (481)
+[2025.03.10-02.21.53:508][684]LogModuleManager: Shutting down and abandoning module Concert (478)
+[2025.03.10-02.21.53:508][684]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (476)
+[2025.03.10-02.21.53:508][684]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (474)
+[2025.03.10-02.21.53:508][684]LogModuleManager: Shutting down and abandoning module FacialAnimation (472)
+[2025.03.10-02.21.53:508][684]LogModuleManager: Shutting down and abandoning module DataValidation (470)
+[2025.03.10-02.21.53:508][684]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (468)
+[2025.03.10-02.21.53:510][684]LogModuleManager: Shutting down and abandoning module TreeMap (467)
+[2025.03.10-02.21.53:510][684]LogModuleManager: Shutting down and abandoning module Paper2D (464)
+[2025.03.10-02.21.53:510][684]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (462)
+[2025.03.10-02.21.53:511][684]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (460)
+[2025.03.10-02.21.53:511][684]LogModuleManager: Shutting down and abandoning module AnimationSharing (458)
+[2025.03.10-02.21.53:511][684]LogModuleManager: Shutting down and abandoning module GameplayCameras (456)
+[2025.03.10-02.21.53:511][684]LogModuleManager: Shutting down and abandoning module MounteaDialogueSystemDeveloper (454)
+[2025.03.10-02.21.53:511][684]MounteaDialogueSystemDeveloper: Warning: MounteaDialogueSystemDeveloper module has been unloaded
+[2025.03.10-02.21.53:511][684]LogModuleManager: Shutting down and abandoning module MounteaDialogueSystem (452)
+[2025.03.10-02.21.53:511][684]LogModuleManager: Shutting down and abandoning module StructUtils (450)
+[2025.03.10-02.21.53:511][684]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (448)
+[2025.03.10-02.21.53:511][684]LogModuleManager: Shutting down and abandoning module PBIK (446)
+[2025.03.10-02.21.53:511][684]LogModuleManager: Shutting down and abandoning module FullBodyIK (444)
+[2025.03.10-02.21.53:511][684]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (442)
+[2025.03.10-02.21.53:511][684]LogModuleManager: Shutting down and abandoning module TakeRecorder (441)
+[2025.03.10-02.21.53:511][684]LogModuleManager: Shutting down and abandoning module LevelEditor (439)
+[2025.03.10-02.21.53:518][684]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (438)
+[2025.03.10-02.21.53:518][684]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (436)
+[2025.03.10-02.21.53:518][684]LogModuleManager: Shutting down and abandoning module MainFrame (434)
+[2025.03.10-02.21.53:518][684]LogModuleManager: Shutting down and abandoning module HotReload (433)
+[2025.03.10-02.21.53:519][684]LogModuleManager: Shutting down and abandoning module ChaosCaching (428)
+[2025.03.10-02.21.53:519][684]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (426)
+[2025.03.10-02.21.53:519][684]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (424)
+[2025.03.10-02.21.53:519][684]LogModuleManager: Shutting down and abandoning module IKRig (422)
+[2025.03.10-02.21.53:519][684]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (420)
+[2025.03.10-02.21.53:519][684]LogModuleManager: Shutting down and abandoning module ControlRig (418)
+[2025.03.10-02.21.53:519][684]LogModuleManager: Shutting down and abandoning module Constraints (417)
+[2025.03.10-02.21.53:519][684]LogModuleManager: Shutting down and abandoning module AnimationData (414)
+[2025.03.10-02.21.53:519][684]LogModuleManager: Shutting down and abandoning module UdpMessaging (412)
+[2025.03.10-02.21.53:620][684]LogModuleManager: Shutting down and abandoning module TcpMessaging (410)
+[2025.03.10-02.21.53:720][684]LogModuleManager: Shutting down and abandoning module InterchangePipelines (408)
+[2025.03.10-02.21.53:720][684]LogModuleManager: Shutting down and abandoning module InterchangeImport (406)
+[2025.03.10-02.21.53:720][684]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (404)
+[2025.03.10-02.21.53:720][684]LogModuleManager: Shutting down and abandoning module InterchangeNodes (402)
+[2025.03.10-02.21.53:720][684]LogModuleManager: Shutting down and abandoning module Synthesis (400)
+[2025.03.10-02.21.53:720][684]LogModuleManager: Shutting down and abandoning module SoundFields (398)
+[2025.03.10-02.21.53:720][684]LogModuleManager: Shutting down and abandoning module SignificanceManager (396)
+[2025.03.10-02.21.53:720][684]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (394)
+[2025.03.10-02.21.53:720][684]LogModuleManager: Shutting down and abandoning module RigVM (392)
+[2025.03.10-02.21.53:720][684]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (390)
+[2025.03.10-02.21.53:720][684]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (388)
+[2025.03.10-02.21.53:720][684]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (386)
+[2025.03.10-02.21.53:720][684]LogModuleManager: Shutting down and abandoning module MetasoundEditor (384)
+[2025.03.10-02.21.53:721][684]LogModuleManager: Shutting down and abandoning module AudioWidgets (383)
+[2025.03.10-02.21.53:721][684]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (382)
+[2025.03.10-02.21.53:722][684]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (378)
+[2025.03.10-02.21.53:722][684]LogModuleManager: Shutting down and abandoning module MetasoundEngine (376)
+[2025.03.10-02.21.53:722][684]LogModuleManager: Shutting down and abandoning module WaveTable (375)
+[2025.03.10-02.21.53:722][684]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (373)
+[2025.03.10-02.21.53:722][684]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (370)
+[2025.03.10-02.21.53:722][684]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (368)
+[2025.03.10-02.21.53:723][684]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (366)
+[2025.03.10-02.21.53:723][684]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (364)
+[2025.03.10-02.21.53:723][684]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (362)
+[2025.03.10-02.21.53:723][684]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2025.03.10-02.21.53:723][684]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2025.03.10-02.21.53:723][684]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (356)
+[2025.03.10-02.21.53:723][684]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (355)
+[2025.03.10-02.21.53:723][684]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (352)
+[2025.03.10-02.21.53:723][684]LogModuleManager: Shutting down and abandoning module ActorSequence (350)
+[2025.03.10-02.21.53:723][684]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (348)
+[2025.03.10-02.21.53:724][684]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (346)
+[2025.03.10-02.21.53:724][684]LogModuleManager: Shutting down and abandoning module Niagara (344)
+[2025.03.10-02.21.53:725][684]LogModuleManager: Shutting down and abandoning module SignalProcessing (343)
+[2025.03.10-02.21.53:725][684]LogModuleManager: Shutting down and abandoning module NiagaraEditor (341)
+[2025.03.10-02.21.53:726][684]LogModuleManager: Shutting down and abandoning module LevelSequence (340)
+[2025.03.10-02.21.53:726][684]LogModuleManager: Shutting down and abandoning module ContentBrowser (338)
+[2025.03.10-02.21.53:726][684]LogModuleManager: Shutting down and abandoning module ToolMenus (337)
+[2025.03.10-02.21.53:726][684]LogModuleManager: Shutting down and abandoning module ContentBrowserData (335)
+[2025.03.10-02.21.53:726][684]LogModuleManager: Shutting down and abandoning module NiagaraCore (330)
+[2025.03.10-02.21.53:726][684]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (328)
+[2025.03.10-02.21.53:726][684]LogModuleManager: Shutting down and abandoning module BlueprintGraph (327)
+[2025.03.10-02.21.53:726][684]LogModuleManager: Shutting down and abandoning module EnhancedInput (324)
+[2025.03.10-02.21.53:726][684]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (322)
+[2025.03.10-02.21.53:926][684]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (320)
+[2025.03.10-02.21.53:926][684]LogModuleManager: Shutting down and abandoning module AndroidFileServer (318)
+[2025.03.10-02.21.53:926][684]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (316)
+[2025.03.10-02.21.53:926][684]LogModuleManager: Shutting down and abandoning module PacketHandler (314)
+[2025.03.10-02.21.53:926][684]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (312)
+[2025.03.10-02.21.53:927][684]LogModuleManager: Shutting down and abandoning module AnimGraph (310)
+[2025.03.10-02.21.53:927][684]LogModuleManager: Shutting down and abandoning module TimeManagement (308)
+[2025.03.10-02.21.53:927][684]LogModuleManager: Shutting down and abandoning module AnimationDataController (306)
+[2025.03.10-02.21.53:927][684]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (304)
+[2025.03.10-02.21.53:927][684]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (302)
+[2025.03.10-02.21.53:927][684]LogModuleManager: Shutting down and abandoning module MediaAssets (300)
+[2025.03.10-02.21.53:927][684]LogModuleManager: Shutting down and abandoning module Overlay (298)
+[2025.03.10-02.21.53:927][684]LogModuleManager: Shutting down and abandoning module OverlayEditor (297)
+[2025.03.10-02.21.53:927][684]LogModuleManager: Shutting down and abandoning module VREditor (294)
+[2025.03.10-02.21.53:927][684]LogModuleManager: Shutting down and abandoning module StringTableEditor (292)
+[2025.03.10-02.21.53:928][684]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (290)
+[2025.03.10-02.21.53:928][684]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (288)
+[2025.03.10-02.21.53:929][684]LogModuleManager: Shutting down and abandoning module FunctionalTesting (286)
+[2025.03.10-02.21.53:929][684]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (284)
+[2025.03.10-02.21.53:929][684]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (283)
+[2025.03.10-02.21.53:930][684]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (280)
+[2025.03.10-02.21.53:930][684]LogModuleManager: Shutting down and abandoning module UMG (278)
+[2025.03.10-02.21.53:930][684]LogModuleManager: Shutting down and abandoning module UMGEditor (277)
+[2025.03.10-02.21.53:930][684]LogModuleManager: Shutting down and abandoning module EditorStyle (272)
+[2025.03.10-02.21.53:930][684]LogModuleManager: Shutting down and abandoning module SlateReflector (270)
+[2025.03.10-02.21.53:932][684]LogModuleManager: Shutting down and abandoning module Slate (268)
+[2025.03.10-02.21.53:932][684]LogModuleManager: Shutting down and abandoning module SlateCore (266)
+[2025.03.10-02.21.53:933][684]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (264)
+[2025.03.10-02.21.53:933][684]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2025.03.10-02.21.53:933][684]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2025.03.10-02.21.53:933][684]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2025.03.10-02.21.53:933][684]LogModuleManager: Shutting down and abandoning module Messaging (256)
+[2025.03.10-02.21.53:933][684]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (254)
+[2025.03.10-02.21.53:933][684]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (252)
+[2025.03.10-02.21.53:933][684]LogModuleManager: Shutting down and abandoning module LiveCoding (250)
+[2025.03.10-02.21.53:945][684]LogModuleManager: Shutting down and abandoning module Networking (248)
+[2025.03.10-02.21.53:945][684]LogModuleManager: Shutting down and abandoning module Core (246)
+[2025.03.10-02.21.53:945][684]LogModuleManager: Shutting down and abandoning module AssetDefinition (244)
+[2025.03.10-02.21.53:945][684]LogModuleManager: Shutting down and abandoning module MovieSceneTools (242)
+[2025.03.10-02.21.53:946][684]LogModuleManager: Shutting down and abandoning module CurveEditor (241)
+[2025.03.10-02.21.53:946][684]LogModuleManager: Shutting down and abandoning module Sequencer (239)
+[2025.03.10-02.21.53:946][684]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2025.03.10-02.21.53:946][684]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2025.03.10-02.21.53:947][684]LogModuleManager: Shutting down and abandoning module NaniteBuilder (232)
+[2025.03.10-02.21.53:947][684]LogModuleManager: Shutting down and abandoning module MeshUtilities (230)
+[2025.03.10-02.21.53:947][684]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (229)
+[2025.03.10-02.21.53:948][684]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (228)
+[2025.03.10-02.21.53:948][684]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (227)
+[2025.03.10-02.21.53:948][684]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (224)
+[2025.03.10-02.21.53:948][684]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (223)
+[2025.03.10-02.21.53:948][684]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (221)
+[2025.03.10-02.21.53:948][684]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (219)
+[2025.03.10-02.21.53:949][684]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (217)
+[2025.03.10-02.21.53:950][684]LogModuleManager: Shutting down and abandoning module MaterialBaking (213)
+[2025.03.10-02.21.53:950][684]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (210)
+[2025.03.10-02.21.53:962][684]LogModuleManager: Shutting down and abandoning module TelemetryUtils (207)
+[2025.03.10-02.21.53:962][684]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (204)
+[2025.03.10-02.21.53:962][684]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (202)
+[2025.03.10-02.21.53:962][684]LogModuleManager: Shutting down and abandoning module DerivedDataCache (200)
+[2025.03.10-02.21.53:981][684]LogModuleManager: Shutting down and abandoning module TargetPlatform (198)
+[2025.03.10-02.21.53:982][684]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (197)
+[2025.03.10-02.21.53:982][684]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (195)
+[2025.03.10-02.21.53:983][684]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (193)
+[2025.03.10-02.21.53:983][684]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (191)
+[2025.03.10-02.21.53:983][684]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (189)
+[2025.03.10-02.21.53:984][684]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (187)
+[2025.03.10-02.21.53:984][684]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (185)
+[2025.03.10-02.21.53:984][684]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (183)
+[2025.03.10-02.21.53:984][684]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (181)
+[2025.03.10-02.21.53:984][684]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (179)
+[2025.03.10-02.21.53:984][684]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (177)
+[2025.03.10-02.21.53:984][684]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (175)
+[2025.03.10-02.21.53:984][684]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (173)
+[2025.03.10-02.21.53:984][684]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (171)
+[2025.03.10-02.21.53:985][684]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (169)
+[2025.03.10-02.21.53:985][684]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (167)
+[2025.03.10-02.21.53:985][684]LogModuleManager: Shutting down and abandoning module TextureFormat (165)
+[2025.03.10-02.21.53:985][684]LogModuleManager: Shutting down and abandoning module ImageWrapper (164)
+[2025.03.10-02.21.53:985][684]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (162)
+[2025.03.10-02.21.53:985][684]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (160)
+[2025.03.10-02.21.53:985][684]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (158)
+[2025.03.10-02.21.53:985][684]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (156)
+[2025.03.10-02.21.53:985][684]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (154)
+[2025.03.10-02.21.53:986][684]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (152)
+[2025.03.10-02.21.53:986][684]LogModuleManager: Shutting down and abandoning module TurnkeySupport (149)
+[2025.03.10-02.21.53:986][684]LogModuleManager: Shutting down and abandoning module InputCore (146)
+[2025.03.10-02.21.53:986][684]LogModuleManager: Shutting down and abandoning module Settings (144)
+[2025.03.10-02.21.53:986][684]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (142)
+[2025.03.10-02.21.53:986][684]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (140)
+[2025.03.10-02.21.53:986][684]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (139)
+[2025.03.10-02.21.53:986][684]LogModuleManager: Shutting down and abandoning module Chaos (136)
+[2025.03.10-02.21.53:986][684]LogModuleManager: Shutting down and abandoning module GeometryCore (135)
+[2025.03.10-02.21.53:987][684]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (132)
+[2025.03.10-02.21.53:987][684]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (131)
+[2025.03.10-02.21.53:987][684]LogModuleManager: Shutting down and abandoning module AVEncoder (130)
+[2025.03.10-02.21.53:987][684]LogModuleManager: Shutting down and abandoning module D3D12RHI (126)
+[2025.03.10-02.21.53:987][684]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (124)
+[2025.03.10-02.21.53:987][684]LogModuleManager: Shutting down and abandoning module PixWinPlugin (122)
+[2025.03.10-02.21.53:987][684]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (120)
+[2025.03.10-02.21.53:987][684]RenderDocPlugin: plugin has been unloaded.
+[2025.03.10-02.21.53:987][684]LogModuleManager: Shutting down and abandoning module VariantManagerContent (118)
+[2025.03.10-02.21.53:987][684]LogModuleManager: Shutting down and abandoning module GLTFExporter (116)
+[2025.03.10-02.21.53:987][684]LogModuleManager: Shutting down and abandoning module DatasmithContent (114)
+[2025.03.10-02.21.53:988][684]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (112)
+[2025.03.10-02.21.53:988][684]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (110)
+[2025.03.10-02.21.53:988][684]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (108)
+[2025.03.10-02.21.53:991][684]LogModuleManager: Shutting down and abandoning module XMPP (103)
+[2025.03.10-02.21.53:991][684]LogModuleManager: Shutting down and abandoning module WebSockets (102)
+[2025.03.10-02.21.53:997][684]LogModuleManager: Shutting down and abandoning module HTTP (99)
+[2025.03.10-02.21.53:997][684]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.03.10-02.21.53:997][684]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7238C7C8-4983-14D3-8800-4F82DE647F0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=702f6072493af8b445f8579d3e1fd245%7Caebf974a3d984927847f24e166bb4d69%7Cf9922e27-9b18-4d58-b7eb-f398621bd19d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2025.03.10-02.21.54:001][684]LogModuleManager: Shutting down and abandoning module SSL (98)
+[2025.03.10-02.21.54:003][684]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (94)
+[2025.03.10-02.21.54:003][684]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (92)
+[2025.03.10-02.21.54:003][684]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (90)
+[2025.03.10-02.21.54:004][684]LogModuleManager: Shutting down and abandoning module EOSShared (88)
+[2025.03.10-02.21.54:559][684]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.03.10-02.21.54:559][684]LogModuleManager: Shutting down and abandoning module ChaosCloth (86)
+[2025.03.10-02.21.54:559][684]LogModuleManager: Shutting down and abandoning module WmfMedia (84)
+[2025.03.10-02.21.54:568][684]LogModuleManager: Shutting down and abandoning module Media (83)
+[2025.03.10-02.21.54:569][684]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (80)
+[2025.03.10-02.21.54:569][684]LogModuleManager: Shutting down and abandoning module ACLPlugin (78)
+[2025.03.10-02.21.54:571][684]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (76)
+[2025.03.10-02.21.54:571][684]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2025.03.10-02.21.54:571][684]LogModuleManager: Shutting down and abandoning module ChunkDownloader (72)
+[2025.03.10-02.21.54:571][684]LogModuleManager: Shutting down and abandoning module AISupportModule (70)
+[2025.03.10-02.21.54:571][684]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (68)
+[2025.03.10-02.21.54:571][684]LogModuleManager: Shutting down and abandoning module NiagaraShader (66)
+[2025.03.10-02.21.54:571][684]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2025.03.10-02.21.54:571][684]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (62)
+[2025.03.10-02.21.54:572][684]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (60)
+[2025.03.10-02.21.54:572][684]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2025.03.10-02.21.54:573][684]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2025.03.10-02.21.54:573][684]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2025.03.10-02.21.54:573][684]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2025.03.10-02.21.54:573][684]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2025.03.10-02.21.54:573][684]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2025.03.10-02.21.54:573][684]LogXGEController: Cleaning working directory: C:/Users/chemb/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.03.10-02.21.54:573][684]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2025.03.10-02.21.54:573][684]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2025.03.10-02.21.54:574][684]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2025.03.10-02.21.54:574][684]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2025.03.10-02.21.54:575][684]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2025.03.10-02.21.54:576][684]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2025.03.10-02.21.54:576][684]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2025.03.10-02.21.54:576][684]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2025.03.10-02.21.54:576][684]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2025.03.10-02.21.54:576][684]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2025.03.10-02.21.54:576][684]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2025.03.10-02.21.54:576][684]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2025.03.10-02.21.54:578][684]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2025.03.10-02.21.54:578][684]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2025.03.10-02.21.54:578][684]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2025.03.10-02.21.54:578][684]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2025.03.10-02.21.54:578][684]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2025.03.10-02.21.54:578][684]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2025.03.10-02.21.54:578][684]LogPakFile: Destroying PakPlatformFile
+[2025.03.10-02.21.54:578][684]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2025.03.10-02.21.54:578][684]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2025.03.10-02.21.54:578][684]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2025.03.10-02.21.54:578][684]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2025.03.10-02.21.54:579][684]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.03.10-02.21.54:771][684]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.03.10-02.21.54:803][684]LogExit: Exiting.
+[2025.03.10-02.21.54:867][684]Log file closed, 03/09/25 22:21:54
