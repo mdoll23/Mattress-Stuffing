@@ -5492,3 +5492,61 @@ UnknownFunction []
 [2025.03.13-17.04.30:455][968]LogViewport: Scene viewport resized to 1842x933, mode Windowed.
 [2025.03.13-17.04.31:069][  0]Cmd: SELECT NONE
 [2025.03.13-17.04.32:536][ 83]LogViewport: Scene viewport resized to 1235x933, mode Windowed.
+[2025.03.13-17.06.57:497][154]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9792.024414
+[2025.03.13-17.06.58:498][157]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.13-17.06.58:498][157]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9792.691406, Update Interval: 308.540314
+[2025.03.13-17.13.01:672][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10155.875000
+[2025.03.13-17.13.02:673][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.13-17.13.02:673][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10156.541016, Update Interval: 349.857483
+[2025.03.13-17.19.42:809][982]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10556.783203
+[2025.03.13-17.19.43:807][985]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.13-17.19.43:807][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10557.450195, Update Interval: 353.314606
+[2025.03.13-17.26.27:632][422]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10961.580078
+[2025.03.13-17.26.28:631][425]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.13-17.26.28:631][425]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10962.248047, Update Interval: 326.042053
+[2025.03.13-17.28.55:262][275]BlueprintLog: New page: Compile UI_EnemyCombat
+[2025.03.13-17.28.55:334][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.13-17.28.57:171][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.13-17.28.57:957][362]LogSlate: Window 'Save Content' being destroyed
+[2025.03.13-17.28.57:966][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.13-17.28.58:136][362]LogSavePackage: Moving output files for package: /Game/Blueprints/UI_EnemyCombat
+[2025.03.13-17.28.58:137][362]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/UI_EnemyCombatDF7CECC54BA05D53151E03A2EA223374.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Content/Blueprints/UI_EnemyCombat.uasset'
+[2025.03.13-17.28.58:155][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 12.5 sec)
+[2025.03.13-17.28.58:160][362]AssetCheck: New page: Asset Save: UI_EnemyCombat
+[2025.03.13-17.28.58:160][362]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI_EnemyCombat.UI_EnemyCombat
+[2025.03.13-17.29.59:707][978]BlueprintLog: New page: Compile UI_PlayerCombat
+[2025.03.13-17.29.59:779][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.13-17.30.00:825][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.13-17.30.01:839][ 14]LogSlate: Window 'Save Content' being destroyed
+[2025.03.13-17.30.01:848][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.13-17.30.02:059][ 14]LogSavePackage: Moving output files for package: /Game/Blueprints/UI_PlayerCombat
+[2025.03.13-17.30.02:061][ 14]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/UI_PlayerCombat1BA42F3243E3F73F27DB628243B5D9B9.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Content/Blueprints/UI_PlayerCombat.uasset'
+[2025.03.13-17.30.02:071][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 223 ms (total: 12.7 sec)
+[2025.03.13-17.30.02:074][ 14]AssetCheck: New page: Asset Save: UI_PlayerCombat
+[2025.03.13-17.30.02:074][ 14]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/UI_PlayerCombat.UI_PlayerCombat
+[2025.03.13-17.31.21:478][219]LogEditorTransaction: Undo Move Node
+[2025.03.13-17.31.40:466][234]LogEditorTransaction: Undo Move Node
+[2025.03.13-17.32.33:768][178]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11327.606445
+[2025.03.13-17.32.33:866][184]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.13-17.32.33:866][184]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11327.688477, Update Interval: 309.111603
+[2025.03.13-17.32.40:965][607]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.13-17.32.41:066][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.03.13-17.32.42:025][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.13-17.32.42:888][631]LogSlate: Window 'Save Content' being destroyed
+[2025.03.13-17.32.42:896][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.13-17.32.43:180][631]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Suspect
+[2025.03.13-17.32.43:181][631]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/BP_Suspect62E8A4D641F9E1FBE5923EA39C2EC356.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Content/Blueprints/BP_Suspect.uasset'
+[2025.03.13-17.32.43:191][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 294 ms (total: 13.0 sec)
+[2025.03.13-17.32.43:192][631]AssetCheck: New page: Asset Save: BP_Suspect
+[2025.03.13-17.32.43:192][631]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Suspect.BP_Suspect
+[2025.03.13-17.33.28:524][270]BlueprintLog: New page: Compile BP_Suspect
+[2025.03.13-17.33.28:608][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.13-17.33.29:997][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.13-17.33.30:739][325]LogSlate: Window 'Save Content' being destroyed
+[2025.03.13-17.33.30:746][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.13-17.33.31:033][325]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Suspect
+[2025.03.13-17.33.31:033][325]LogSavePackage: Moving '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Saved/BP_Suspect1C0637584C888537A0ED068A177AFA7F.tmp' to '../../../../../../Users/chemb/OneDrive/Documents/gitRepositories/Mattress-Stuffing/Nior_Demo_3_5/Noir_Demo/Content/Blueprints/BP_Suspect.uasset'
+[2025.03.13-17.33.31:042][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 296 ms (total: 13.3 sec)
+[2025.03.13-17.33.31:046][325]AssetCheck: New page: Asset Save: BP_Suspect
+[2025.03.13-17.33.31:046][325]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Suspect.BP_Suspect
+[2025.03.13-17.33.39:734][845]LogViewport: Scene viewport resized to 1139x736, mode Windowed.
